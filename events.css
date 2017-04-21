@@ -1,0 +1,23 @@
+.red {
+	color: red;
+}
+.large {
+	font-size: 2em;
+}
+.border {
+	border: 2px solid black;
+}
+.round {
+	border-radius: 1em;
+}
+
+section:first-of-type {
+	font-weight: bold;
+}
+section:last-of-type {
+	font-weight: bold;
+	font-style: italic;
+}
+button {
+	display: block;
+}
